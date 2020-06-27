@@ -1,0 +1,2 @@
+rootProject.name='ejLogin'
+include ':app'

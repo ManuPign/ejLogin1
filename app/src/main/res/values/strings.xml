@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejLogin</string>
+    <string name="bienvenido">Bienvenido de nuevo</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingresarusuario">Ingresar usuario</string>
+    <string name="ingresarpassword">Ingresar password</string>
+    <string name="recordar">Recordar usuario</string>
+    <string name="registrar">Sin usuario? Registrarse aqui</string>
+</resources>
